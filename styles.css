@@ -484,3 +484,22 @@ body {
         text-align: center;
     }
 }
+/* Profile photo in top-right corner */
+.profile-photo-corner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 140px;
+    height: auto;
+    border-radius: 15px;
+    margin: 20px;
+    z-index: 1;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    object-fit: cover;
+}
+
+/* Ensure .hero-visual still allows floating elements */
+.hero-visual {
+    position: relative;
+    height: 500px;
+}
