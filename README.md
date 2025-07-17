@@ -1,4 +1,4 @@
-# 🌐 Ujjwal Rathore | ML Engineer & Full Stack Developer
+# 🌐 Ujjwal Rathore | ML Engineer & cloud Engineer 
 
 Welcome to my personal **portfolio website**! This site is a reflection of my journey as a Machine Learning Engineer and Full Stack Developer — showcasing who I am, what I've built, and how I can help solve real-world problems through code.
 
